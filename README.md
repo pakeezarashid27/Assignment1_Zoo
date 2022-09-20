@@ -1,5 +1,5 @@
-# zoo-starter-code
+# Assignment 1
 
-This repository is the website starter code for Assignment 1 - Zoo.
+Team Members : Pakeeza Rashid, Asad, Yoomin
 
-[Website link](https://johnnylaicode.github.io/zoo-starter-code/)
+[Website link](https://github.com/pakeezarashid27/Assignment1_Zoo.git)
